@@ -236,34 +236,34 @@ Edit,Zmień,module,Magento_AdvancedSearch
 "RPC call failed, connection timed out after %time_out.","Wywołanie RPC nie powiodło się, przekroczenie czasu połączenia %time_out.",module,Magento_Amqp
 "Message has been rejected: %1","Wiadomość została odrzucona: %1",module,Magento_Amqp
 "Error while checking if topic is synchronous","Błąd podczas sprawdzania, czy temat jest synchroniczny",module,Magento_Amqp
-"Subscription status","Subscription status",module,Magento_Analytics
+"Subscription status","Status subskrypcji",module,Magento_Analytics
 "Sorry, there has been an error processing your request. Please try again later.","Sorry, there has been an error processing your request. Please try again later.",module,Magento_Analytics
 "Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.","Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.",module,Magento_Analytics
 "Error occurred during postponement notification","Error occurred during postponement notification",module,Magento_Analytics
-"Command was not found.","Command was not found.",module,Magento_Analytics
+"Command was not found.","Nie znaleziono polecenia.",module,Magento_Analytics
 "There was an error save new configuration value.","There was an error save new configuration value.",module,Magento_Analytics
 "Please select a vertical.","Please select a vertical.",module,Magento_Analytics
-"--Please Select--","--Please Select--",module,Magento_Analytics
+"--Please Select--","--Proszę wybrać--",module,Magento_Analytics
 "Cannot find predefined integration user!","Cannot find predefined integration user!",module,Magento_Analytics
-TestMessage,TestMessage,module,Magento_Analytics
+TestMessage,WiadomośćTestowa,module,Magento_Analytics
 "Error message","Error message",module,Magento_Analytics
-"Apps and Games","Apps and Games",module,Magento_Analytics
+"Apps and Games","Aplikacje i gry",module,Magento_Analytics
 "Athletic/Sporting Goods","Athletic/Sporting Goods",module,Magento_Analytics
 "Art and Design","Art and Design",module,Magento_Analytics
 "Free Tier","Free Tier",module,Magento_Analytics
 "An error occurred while subscription process.","An error occurred while subscription process.",module,Magento_Analytics
 Analytics,Analytics,module,Magento_Analytics
 API,API,module,Magento_Analytics
-Configuration,Configuration,module,Magento_Analytics
+Configuration,Konfiguracja,module,Magento_Analytics
 "BI Essential","BI Essential",module,Magento_Analytics
 "Basic Tier","Basic Tier",module,Magento_Analytics
 "BI Essentials","BI Essentials",module,Magento_Analytics
-General,General,module,Magento_Analytics
+General,Ogólne,module,Magento_Analytics
 "Send the system and transaction data to Magento Analytics service","Send the system and transaction data to Magento Analytics service",module,Magento_Analytics
 Vertical,Vertical,module,Magento_Analytics
 "Analytics Subscription","Analytics Subscription",module,Magento_Analytics
 "Subscription Confirmation","Subscription Confirmation",module,Magento_Analytics
-Cancel,Cancel,module,Magento_Analytics
+Cancel,Anuluj,module,Magento_Analytics
 Ok,Ok,module,Magento_Analytics
 "I agree with sending my system
                             configuration and transaction data to Magento Analytics.","I agree with sending my system
@@ -1201,7 +1201,7 @@ Delete,Usuń,module,Magento_Bundle
 "Child with specified sku: ""%1"" already assigned to product: ""%2""","Dziecko z określonym sku: ""%1"" już przypisane do produktu: ""%2""",module,Magento_Bundle
 "Product with specified sku: %1 is not a bundle product","Produkt o sku: %1 nie jest pakietem produktów",module,Magento_Bundle
 "Requested bundle option product doesn't exist","Żądany pakiet opcji produktu nie istnieje",module,Magento_Bundle
-"%fieldName is a required field.","%fieldName is a required field.",module,Magento_Bundle
+"%fieldName is a required field.","%fieldName jest polem wymaganym.",module,Magento_Bundle
 "Requested option doesn't exist","Żądana opcja nie istnieje",module,Magento_Bundle
 "Cannot delete option with id %1","Nie można usunąć opcji z id %1",module,Magento_Bundle
 "Could not save option","Nie można zapisać opcji",module,Magento_Bundle
@@ -2440,11 +2440,11 @@ Disabled,Wyłączone,module,Magento_CatalogStaging
 "Future Update in this time range already exists. Select a different range to add a new Future Update.","Przyszła aktualizacja w tym okresie już istnieje. By dodać nową zmień przedział czasowy.",module,Magento_CatalogStaging
 "Unable to save product","Nie można zapisać produktu",module,Magento_CatalogStaging
 "The image cannot be removed as it has been assigned to the other image role","Obraz nie może zostać usunięty, ponieważ został przypisany do roli innego obrazu",module,Magento_CatalogStaging
-"Could not save Prices.","Could not save Prices.",module,Magento_CatalogStaging
+"Could not save Prices.","Nie można zapisać cen.",module,Magento_CatalogStaging
 "Invalid attribute %fieldName = %fieldValue.","Invalid attribute %fieldName = %fieldValue.",module,Magento_CatalogStaging
 "The requested price is not found.","The requested price is not found.",module,Magento_CatalogStaging
 "Could not delete Prices","Could not delete Prices",module,Magento_CatalogStaging
-"Update %1 from %2 to %3.","Update %1 from %2 to %3.",module,Magento_CatalogStaging
+"Update %1 from %2 to %3.","Aktualizacja %1 z %2 do %3.",module,Magento_CatalogStaging
 Design,Wygląd,module,Magento_CatalogStaging
 View/Edit,Wyświetl/Edytuj,module,Magento_CatalogStaging
 Delete,Usuń,module,Magento_CatalogStaging
@@ -2933,7 +2933,7 @@ Name,Nazwa,module,Magento_CmsStaging
 Description,Opis,module,Magento_CmsStaging
 Action,Operacja,module,Magento_CmsStaging
 "Update Information","Informacje o aktualizacji",module,Magento_CmsStaging
-"Remove CMS block from Update","Remove CMS block from Update",module,Magento_CmsStaging
+"Remove CMS block from Update","Usuń blok CMS z aktualizacji",module,Magento_CmsStaging
 "Update Name","Zaktualizowana nazwa",module,Magento_CmsStaging
 "Start Date","Data rozpoczęcia",module,Magento_CmsStaging
 "End Date","Data zakończenia",module,Magento_CmsStaging
@@ -3335,7 +3335,7 @@ Import,Importuj,module,Magento_CurrencySymbol
 "All valid rates have been saved.","Wszystkie poprawne stawki zostały zapisane.",module,Magento_CurrencySymbol
 System,System,module,Magento_CurrencySymbol
 "You applied the custom currency symbols.","Zastosowano niestandardowe symbole walut.",module,Magento_CurrencySymbol
-"You must first configure currency options before being able to see currency rates.","You must first configure currency options before being able to see currency rates.",module,Magento_CurrencySymbol
+"You must first configure currency options before being able to see currency rates.","Należy najpierw skonfigurować opcje walutowe, zanim będziesz mógł zobaczyć kursy walut.",module,Magento_CurrencySymbol
 "Old rate:","Stara stawka:",module,Magento_CurrencySymbol
 Currency,Waluta,module,Magento_CurrencySymbol
 [GLOBAL],[GLOBALNY],module,Magento_CustomAttributeManagement
@@ -4117,7 +4117,7 @@ CSV,CSV,module,Magento_CustomerImportExport
 "Excel XML","Excel XML",module,Magento_CustomerImportExport
 Segments,Segmenty,module,Magento_CustomerSegment
 "Add Segment","Dodaj segnemt",module,Magento_CustomerSegment
-"Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_CustomerSegment
+"Are you sure you want to do this?","Czy na pewno chcesz to zrobić?",module,Magento_CustomerSegment
 "Refresh Segment Data","Odśwież dane segmentu",module,Magento_CustomerSegment
 "Save and Continue Edit","Zapisz i kontynuuj edycję",module,Magento_CustomerSegment
 "Edit Segment '%1'","Edytuj Segment '%1'",module,Magento_CustomerSegment
@@ -5999,7 +5999,7 @@ Invitations,"Tekst zaproszenia do skomentowania",module,Magento_Invitation
 Message,Wiadomość,module,Magento_Invitation
 "Send From","Wysłane od",module,Magento_Invitation
 "Invitee Group","Grupa zaproszonych",module,Magento_Invitation
-Reset,Reset,module,Magento_Invitation
+Reset,Resetuj,module,Magento_Invitation
 Save,Save,module,Magento_Invitation
 "View Invitation for %1 (ID: %2)","Zobacz zaproszenie dla %1 (ID: %2)",module,Magento_Invitation
 Back,Powrót,module,Magento_Invitation
@@ -6878,7 +6878,7 @@ Import,Import,module,Magento_OfflineShipping
 "Specify backend host for config file generation. If field is empty default value localhost will be saved.","Określ backend host do generowania pliku config. Jeśli pole jest puste domyślna wartość localhost zostanie zapisana.",module,Magento_PageCache
 "Backend port",Port,module,Magento_PageCache
 "Specify backend port for config file generation. If field is empty default value 8080 will be saved.","Określ backend port do generowania pliku config. Jeśli pole jest puste domyślna wartość 8080 zostanie zapisana.",module,Magento_PageCache
-"Grace period","Grace period",module,Magento_PageCache
+"Grace period","Okres karencji",module,Magento_PageCache
 "Specify grace period in seconds for config file generation. If field is empty default value 300 will be saved. This grace period will be used to serve cached content when the server is healthy. If the server is not healthy, cached content will be served for 3 days before failing.","Specify grace period in seconds for config file generation. If field is empty default value 300 will be saved. This grace period will be used to serve cached content when the server is healthy. If the server is not healthy, cached content will be served for 3 days before failing.",module,Magento_PageCache
 "TTL for public content","TTL dla publicznych treści",module,Magento_PageCache
 "Public content cache lifetime in seconds. If field is empty default value 86400 will be saved.","Publiczna zawartość pamięci podręcznej w sekundach. Jeśli pole jest puste wartość domyślna 86400 zostanie zapisana.",module,Magento_PageCache
@@ -7718,7 +7718,7 @@ Subtotal,"Suma częściowa",module,Magento_Quote
 "Cart %1 doesn't contain item  %2","Koszyk %1 nie zawiera produktu %2",module,Magento_Quote
 "Could not remove item from quote","Nie udało się usunąć tej pozycji z koszyka",module,Magento_Quote
 "The qty value is required to update quote item.","Wartość ilość jest wymagana do aktualizacji pozycji qty.",module,Magento_Quote
-"Minimum order amount is %1","Minimum order amount is %1",module,Magento_Quote
+"Minimum order amount is %1","Minimalna wielkość zamówienia to %1",module,Magento_Quote
 "Invalid customer id %1","Nieprawidłowy identyfikator klienta: %1",module,Magento_Quote
 "Invalid address id %1","Nieprawidłowy adres id %1",module,Magento_Quote
 "Invalid customer address id %1","Invalid customer address id %1",module,Magento_Quote
@@ -10398,7 +10398,7 @@ City,Miasto,module,Magento_Shipping
 "Shipping Methods","Metody dostawy",module,Magento_Shipping
 "Track your order","Track your order",module,Magento_Shipping
 Yes,Yes,module,Magento_Signifyd
-No,No,module,Magento_Signifyd
+No,Nie,module,Magento_Signifyd
 "Submit Guarantee Request","Submit Guarantee Request",module,Magento_Signifyd
 "Cancel Guarantee Request","Cancel Guarantee Request",module,Magento_Signifyd
 "Order id is required.","Order id is required.",module,Magento_Signifyd
@@ -10412,7 +10412,7 @@ No,No,module,Magento_Signifyd
 "The ""%1"" should not be empty.","The ""%1"" should not be empty.",module,Magento_Signifyd
 "Case entity not found.","Case entity not found.",module,Magento_Signifyd
 "Case Update: New score for the order is %1. Previous score was %2.","Case Update: New score for the order is %1. Previous score was %2.",module,Magento_Signifyd
-Error,Error,module,Magento_Signifyd
+Error,Błąd,module,Magento_Signifyd
 "Cannot generate message.","Cannot generate message.",module,Magento_Signifyd
 "Message is generated.","Message is generated.",module,Magento_Signifyd
 "Fraud Protection Information","Fraud Protection Information",module,Magento_Signifyd
@@ -10516,7 +10516,7 @@ Action,Operacja,module,Magento_Sitemap
 Cancel,Anuluj,module,Magento_Staging
 Preview,Podgląd,module,Magento_Staging
 Done,Gotowe,module,Magento_Staging
-"Remove from Update","Remove from Update",module,Magento_Staging
+"Remove from Update","Usuń z aktualizacji",module,Magento_Staging
 Save,Zapisz,module,Magento_Staging
 "Schedule New Update","Zaplanuj nową aktualizację",module,Magento_Staging
 "View Specific Date","Zobacz określoną datę",module,Magento_Staging
@@ -11382,7 +11382,7 @@ Settings,Ustawienia,module,Magento_Theme
 "3 columns","3 kolumny",module,Magento_Theme
 "Dictionary (Translation on Storefront side)","Słownik (tłumaczenie na stronie sklepu)",module,Magento_Translation
 "Embedded (Translation on Admin side)","Wbudowany (tłumaczenie na stronie admina)",module,Magento_Translation
-"Error while translating phrase ""%s"" in file %s.","Error while translating phrase ""%s"" in file %s.",module,Magento_Translation
+"Error while translating phrase ""%s"" in file %s.","Błąd podczas tłumaczenia zdania ""%s"" w pliku %s.",module,Magento_Translation
 "Error while generating js translation dictionary: ""%s""","Error while generating js translation dictionary: ""%s""",module,Magento_Translation
 "Translation Strategy","Strategia tłumaczenia",module,Magento_Translation
 Translations,Tłumaczenia,module,Magento_Translation
@@ -11663,8 +11663,8 @@ Store,Sklep,module,Magento_UrlRewrite
 "URL Rewrite Management","Zarządzanie przekierowaniami URL",module,Magento_UrlRewrite
 "Add URL Rewrite","Dodaj nowe przekierowanie URL",module,Magento_UrlRewrite
 Custom,Niestandardowe,module,Magento_UrlRewrite
-"For Category","For Category",module,Magento_UrlRewrite
-"For Product","For Product",module,Magento_UrlRewrite
+"For Category","Dla kategorii",module,Magento_UrlRewrite
+"For Product","Dla produktu",module,Magento_UrlRewrite
 "For CMS page","Dla stron CMS",module,Magento_UrlRewrite
 "Create URL Rewrite","Create URL Rewrite",module,Magento_UrlRewrite
 "You deleted the URL rewrite.","Usunąłeś przekierowanie URL.",module,Magento_UrlRewrite
