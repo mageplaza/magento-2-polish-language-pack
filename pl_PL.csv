@@ -237,37 +237,36 @@ Edit,Zmień,module,Magento_AdvancedSearch
 "Message has been rejected: %1","Wiadomość została odrzucona: %1",module,Magento_Amqp
 "Error while checking if topic is synchronous","Błąd podczas sprawdzania, czy temat jest synchroniczny",module,Magento_Amqp
 "Subscription status","Status subskrypcji",module,Magento_Analytics
-"Sorry, there has been an error processing your request. Please try again later.","Sorry, there has been an error processing your request. Please try again later.",module,Magento_Analytics
-"Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.","Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.",module,Magento_Analytics
-"Error occurred during postponement notification","Error occurred during postponement notification",module,Magento_Analytics
+"Sorry, there has been an error processing your request. Please try again later.","Niestety, nastąpił błąd podczas przetwarzania Twojego żądania. Proszę spróbować ponownie później.",module,Magento_Analytics
+"Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.","Przepraszamy wystąpił błąd przetwarzania żądania rejestracji do usługi Magento Analytics. Proszę spróbować ponownie później.",module,Magento_Analytics
+"Error occurred during postponement notification","Wystąpił błąd podczas odroczenia powiadomienia",module,Magento_Analytics
 "Command was not found.","Nie znaleziono polecenia.",module,Magento_Analytics
-"There was an error save new configuration value.","There was an error save new configuration value.",module,Magento_Analytics
-"Please select a vertical.","Please select a vertical.",module,Magento_Analytics
+"There was an error save new configuration value.","Wystąpił błąd. Zapisz nową wartość konfiguracji.",module,Magento_Analytics
+"Please select a vertical.","Proszę wybrać pionowo.",module,Magento_Analytics
 "--Please Select--","--Proszę wybrać--",module,Magento_Analytics
-"Cannot find predefined integration user!","Cannot find predefined integration user!",module,Magento_Analytics
+"Cannot find predefined integration user!","Nie można znaleźć zdefiniowanego użytkownika!",module,Magento_Analytics
 TestMessage,WiadomośćTestowa,module,Magento_Analytics
-"Error message","Error message",module,Magento_Analytics
+"Error message","Komunikat błędu",module,Magento_Analytics
 "Apps and Games","Aplikacje i gry",module,Magento_Analytics
-"Athletic/Sporting Goods","Athletic/Sporting Goods",module,Magento_Analytics
-"Art and Design","Art and Design",module,Magento_Analytics
+"Athletic/Sporting Goods","Artykuły sportowe",module,Magento_Analytics
+"Art and Design","Sztuka i projektowanie",module,Magento_Analytics
 "Free Tier","Free Tier",module,Magento_Analytics
-"An error occurred while subscription process.","An error occurred while subscription process.",module,Magento_Analytics
-Analytics,Analytics,module,Magento_Analytics
-API,API,module,Magento_Analytics
+"An error occurred while subscription process.","Wystąpił błąd podczas procesu subskrypcji.",module,Magento_Analytics
+Analytics,Analityka,module,Magento_Analytics
+API,"Interfejs API",module,Magento_Analytics
 Configuration,Konfiguracja,module,Magento_Analytics
-"BI Essential","BI Essential",module,Magento_Analytics
+"BI Essential","BI podstawy",module,Magento_Analytics
 "Basic Tier","Basic Tier",module,Magento_Analytics
 "BI Essentials","BI Essentials",module,Magento_Analytics
 General,Ogólne,module,Magento_Analytics
 "Send the system and transaction data to Magento Analytics service","Send the system and transaction data to Magento Analytics service",module,Magento_Analytics
-Vertical,Vertical,module,Magento_Analytics
-"Analytics Subscription","Analytics Subscription",module,Magento_Analytics
-"Subscription Confirmation","Subscription Confirmation",module,Magento_Analytics
+Vertical,Pionowo,module,Magento_Analytics
+"Analytics Subscription","Subskrypcja usługi Analytics",module,Magento_Analytics
+"Subscription Confirmation","Potwierdzenie subskrypcji",module,Magento_Analytics
 Cancel,Anuluj,module,Magento_Analytics
 Ok,Ok,module,Magento_Analytics
 "I agree with sending my system
-                            configuration and transaction data to Magento Analytics.","I agree with sending my system
-                            configuration and transaction data to Magento Analytics.",module,Magento_Analytics
+                            configuration and transaction data to Magento Analytics.","Zgadzam się z wysyłaniem danych konfiguracji mojego systemu i transakcji do Magento Analytics.",module,Magento_Analytics
 Back,Powrót,module,Magento_AsynchronousOperations
 Done,Zrobione,module,Magento_AsynchronousOperations
 Retry,"Ponów próbę",module,Magento_AsynchronousOperations
@@ -2726,6 +2725,7 @@ Payment,Płatność,module,Magento_Checkout
 "Not yet calculated","Jeszcze nie obliczone",module,Magento_Checkout
 "We received your order!","Otrzymaliśmy zamówienie!",module,Magento_Checkout
 "Thank you for your purchase!","Dziękujemy za złożenie zamówienia!",module,Magento_Checkout
+"Go to Checkout","Przejdź do kasy",module,Magento_Checkout
 "Terms and Conditions","Zasady składania zamówień",module,Magento_CheckoutAgreements
 "Add New Condition","Dodaj nowy warunek",module,Magento_CheckoutAgreements
 "Save Condition","Zapisz warunek",module,Magento_CheckoutAgreements
