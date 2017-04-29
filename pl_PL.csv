@@ -2726,6 +2726,9 @@ Payment,Płatność,module,Magento_Checkout
 "We received your order!","Otrzymaliśmy zamówienie!",module,Magento_Checkout
 "Thank you for your purchase!","Dziękujemy za złożenie zamówienia!",module,Magento_Checkout
 "Go to Checkout","Przejdź do kasy",module,Magento_Checkout
+"View and edit cart","Zobacz i edytuj koszyk",module,Magento_Checkout
+"Item in Cart","Produkty w koszyku",module,Magento_Checkout
+"Items in Cart","Produkty w koszyku",module,Magento_Checkout
 "Terms and Conditions","Zasady składania zamówień",module,Magento_CheckoutAgreements
 "Add New Condition","Dodaj nowy warunek",module,Magento_CheckoutAgreements
 "Save Condition","Zapisz warunek",module,Magento_CheckoutAgreements
@@ -6307,6 +6310,7 @@ Partners,Partnerzy,module,Magento_Marketplace
 "Read More","Czytaj więcej",module,Magento_Marketplace
 "Partner Page","Strona Partnera",module,Magento_Marketplace
 "No partners were found","Nie znaleziono partnerów",module,Magento_Marketplace
+"Find Partners & Extensions","Znajdź partnerów & rozszerzeń",module,Magento_Marketplace
 Synchronize,Synchronizuj,module,Magento_MediaStorage
 "Synchronizing %1 to %2","Synchronizacja %1 do %2",module,Magento_MediaStorage
 Synchronizing...,Synchronizacja...,module,Magento_MediaStorage
@@ -9353,7 +9357,7 @@ Subtotal:,"Suma częściowa:",module,Magento_Sales
 "Move to Wish List","Dodaj do schowka",module,Magento_Sales
 "Subscribe to Newsletter","Subskrybuj newsletter",module,Magento_Sales
 "Click to change shipping method","Kliknij, aby zmienić metodę wysyłki",module,Magento_Sales
-"Sorry, no quotes are available for this order.","Przepraszamy cudzysłowie nie jest dostępne dla tego zamówienia.",module,Magento_Sales
+"Sorry, no quotes are available for this order.","Nie istnieje żaden koszyk przypisany do tego zamówienia.",module,Magento_Sales
 "Get shipping methods and rates","Pobierz sposoby dostawy i stawki",module,Magento_Sales
 "You don't need to select a shipping method.","Nie musisz wybierać metody wysyłki.",module,Magento_Sales
 "Customer's Activities","Działalności klienta",module,Magento_Sales
