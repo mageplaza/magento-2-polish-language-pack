@@ -2662,7 +2662,7 @@ Cancel,Anuluj,module,Magento_Checkout
 "Estimated Total","Szacowana łączna kwota",module,Magento_Checkout
 "You can create an account after checkout.","Możesz utworzyć konto po złożeniu zamówienia.",module,Magento_Checkout
 "You already have an account with us. Sign in or continue as guest.","Aktualnie posiadasz już konto w naszym sklepie. Zaloguj się lub złóż zamówienie bez zakładania konta.",module,Magento_Checkout
-Login,Logowanie,module,Magento_Checkout
+Login,"Zaloguj się",module,Magento_Checkout
 "See Details","Zobacz szczegóły",module,Magento_Checkout
 "Options Details","Szczegóły opcji",module,Magento_Checkout
 Remove,Usuń,module,Magento_Checkout
@@ -6236,7 +6236,7 @@ Flush,Kolor,module,Magento_Logging
 Fetch,Pobierz,module,Magento_Logging
 "Update Payment","Zaktualizuj płatności",module,Magento_Logging
 "Update State","Aktualizacja Stanu",module,Magento_Logging
-Login,Logowanie,module,Magento_Logging
+Login,"Zaloguj się",module,Magento_Logging
 Send,Wyślij,module,Magento_Logging
 Create,Utwórz,module,Magento_Logging
 "Catalog Products","Katalog produktów",module,Magento_Logging
@@ -7471,7 +7471,7 @@ Enabled,Włączone,module,Magento_Paypal
 "Allow in Billing Agreement Wizard","Dopuść w wizardzie umowy rozliczeniowej",module,Magento_Paypal
 "Settlement Report Settings","Settlement Report Settings",module,Magento_Paypal
 "SFTP Credentials","Dane SFTP",module,Magento_Paypal
-Login,Logowanie,module,Magento_Paypal
+Login,"Zaloguj się",module,Magento_Paypal
 Password,Hasło,module,Magento_Paypal
 "Custom Endpoint Hostname or IP-Address","Niestandardowa nazwa hosta lub adres IP dla punktu końcowego",module,Magento_Paypal
 "By default it is ""reports.paypal.com"".","Domyślnie to jest reports.paypal.com"".""",module,Magento_Paypal
