@@ -33,10 +33,8 @@ Install the Polish language pack via composer is never easier.
 **Install Polish pack**:
 
 ```
-composer require mageplaza/magento-2-polish-language-pack:dev-master
-php bin/magento cache:clean
+composer require mageplaza/magento-2-polish-language-pack
 php bin/magento setup:static-content:deploy pl_PL
-php bin/magento indexer:reindex
 php bin/magento cache:clean
 php bin/magento cache:flush
 
@@ -46,8 +44,7 @@ php bin/magento cache:flush
 **Update  Polish pack**:
 
 ```
-composer update mageplaza/magento-2-polish-language-pack:dev-master
-php bin/magento cache:clean
+composer update mageplaza/magento-2-polish-language-pack
 php bin/magento setup:static-content:deploy pl_PL
 php bin/magento indexer:reindex
 php bin/magento cache:clean
