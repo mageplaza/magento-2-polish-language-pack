@@ -3424,8 +3424,8 @@ Email,E-mail,module,Magento_CustomAttributeManagement
 "The attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscores (_) in this field. The first character should be a letter.","Kod cechy jest niepoprawny. Prosimy o używanie jedynie liter (a-z), cyfr (0-9) lub podkreślnika (_) w tym polu, pierwszy znak powinien być literą.",module,Magento_CustomAttributeManagement
 "Sign Out","Wyloguj się",module,Magento_Customer
 "Sign In","Zaloguj się",module,Magento_Customer
-"You are subscribed to our newsletter.","You are subscribed to our newsletter.",module,Magento_Customer
-"You aren't subscribed to our newsletter.","You aren't subscribed to our newsletter.",module,Magento_Customer
+"You are subscribed to our newsletter.","Zaprenumerowałeś nasz biuletyn.",module,Magento_Customer
+"You aren't subscribed to our newsletter.","Nie subskrybujesz naszego biuletynu.",module,Magento_Customer
 "You have not set a default shipping address.","Nie ustawiłeś domyślnego adresu wysyłki.",module,Magento_Customer
 "You have not set a default billing address.","Nie ustawiłeś domyślnego adresu płatności.",module,Magento_Customer
 "Address Book","Książka adresowa",module,Magento_Customer
