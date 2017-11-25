@@ -12110,13 +12110,13 @@ Name,Nazwa,module,Magento_Variable
 "No token found.","Nie znaleziono tokenu.",module,Magento_Vault
 "Wrong request.","Nieprawidłowe żądanie.",module,Magento_Vault
 "Deletion failure. Please try again.","Usuwanie awarii. Proszę spróbować ponownie.",module,Magento_Vault
-"Stored Payment Method was successfully removed","Stored Payment Method was successfully removed",module,Magento_Vault
-"Stored Payment Methods","Stored Payment Methods",module,Magento_Vault
-"No available payment tokens for specified order payment.","No available payment tokens for specified order payment.",module,Magento_Vault
+"Stored Payment Method was successfully removed","Zapisana metoda płatności została pomyślnie usunięta",module,Magento_Vault
+"Stored Payment Methods","Przechowywane metody płatności",module,Magento_Vault
+"No available payment tokens for specified order payment.","Brak dostępnych żetonów płatności dla określonej kwoty lub płatności.",module,Magento_Vault
 "Card Number","Numer karty",module,Magento_Vault
 "Expiration Date","Data ważności",module,Magento_Vault
 Type,Rodzaj,module,Magento_Vault
-"You have no stored payment methods.","You have no stored payment methods.",module,Magento_Vault
+"You have no stored payment methods.","Nie masz zapisanych metod płatności.",module,Magento_Vault
 ending,końcówka,module,Magento_Vault
 Actions,Operacje,module,Magento_Vault
 Delete,Usuń,module,Magento_Vault
