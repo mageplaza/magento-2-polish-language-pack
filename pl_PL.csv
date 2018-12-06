@@ -3038,7 +3038,7 @@
 "Action","Operacja",module,Magento_Cms
 "Preview","Podgląd",module,Magento_Cms
 "Media Storage","Składowanie mediów",module,Magento_Cms
-"Cancel","Cancel",module,Magento_Cms
+"Cancel","Anuluj",module,Magento_Cms
 "Delete Folder","Usuń folder",module,Magento_Cms
 "Delete Selected","Delete Selected",module,Magento_Cms
 "Create Folder","Create Folder",module,Magento_Cms
@@ -7482,7 +7482,7 @@
 "Subtotal (Excl. Tax)","Subtotal (Excl. Tax)",module,Magento_NegotiableQuote
 "Add to Quote by SKU","Add to Quote by SKU",module,Magento_NegotiableQuote
 "Add to Quote","Add to Quote",module,Magento_NegotiableQuote
-"Cancel","Cancel",module,Magento_NegotiableQuote
+"Cancel","Anuluj",module,Magento_NegotiableQuote
 "Total Cost","Total Cost",module,Magento_NegotiableQuote
 "Negotiated Price","Negotiated Price",module,Magento_NegotiableQuote
 "Shipping & Handling","Shipping & Handling",module,Magento_NegotiableQuote
@@ -7777,7 +7777,7 @@
 "Contact Us","Contact Us",module,Magento_NegotiableQuote
 "Your quote number is: %1.","Your quote number is: %1.",module,Magento_NegotiableQuote
 "The quote has been sent to the merchant.","The quote has been sent to the merchant.",module,Magento_NegotiableQuote
-"Continue Shopping","Continue Shopping",module,Magento_NegotiableQuote
+"Continue Shopping","Kontynuuj zakupy",module,Magento_NegotiableQuote
 "Please specify the reason","Please specify the reason",module,Magento_NegotiableQuote
 "Dear %merchant_name,","Dear %merchant_name,",module,Magento_NegotiableQuote
 "New quote","New quote",module,Magento_NegotiableQuote
@@ -9519,7 +9519,7 @@
 "Select Cancel to stay on the current page.","Select Cancel to stay on the current page.",module,Magento_RequisitionList
 "Merge","Merge",module,Magento_RequisitionList
 "Replace","Replace",module,Magento_RequisitionList
-"Cancel","Cancel",module,Magento_RequisitionList
+"Cancel","Anuluj",module,Magento_RequisitionList
 "Ok","Ok",module,Magento_RequisitionList
 "Cannot Perform the Requested Action","Cannot Perform the Requested Action",module,Magento_RequisitionList
 "This action cannot be performed because the selected product(s) require attention. You must resolve these issues before you can continue.","This action cannot be performed because the selected product(s) require attention. You must resolve these issues before you can continue.",module,Magento_RequisitionList
@@ -9663,7 +9663,7 @@
 "Product Rating:","Ocena produktu:",module,Magento_Review
 "Product Review (submitted on %1):","Recenzja produktu (zgłoszona %1):",module,Magento_Review
 "Back to Product Reviews","Wróć do recenzji produktu",module,Magento_Review
-"Please select one of each of the ratings above.","Please select one of each of the ratings above.",module,Magento_Review
+"Please select one of each of the ratings above.","Wybierz jedną z powyższych ocen.",module,Magento_Review
 "By Customers","Klienci",module,Magento_Review
 "By Products","Produkty",module,Magento_Review
 "Allow Guests to Write Reviews","Pozwól gościom na pisanie recenzji",module,Magento_Review
@@ -11652,7 +11652,7 @@
 "Catalog Structure","Catalog Structure",module,Magento_SharedCatalog
 "Catalog Id","Catalog Id",module,Magento_SharedCatalog
 "Store Id","Store Id",module,Magento_SharedCatalog
-"Cancel","Cancel",module,Magento_SharedCatalog
+"Cancel","Anuluj",module,Magento_SharedCatalog
 "Done","Done",module,Magento_SharedCatalog
 "Back","Back",module,Magento_SharedCatalog
 "Delete","Delete",module,Magento_SharedCatalog
@@ -13690,7 +13690,7 @@
 "Edit Variable","Edit Variable",module,Magento_Variable
 "Insert Variable","Insert Variable",module,Magento_Variable
 "The variable %1 is no longer available. Select a different variable.","The variable %1 is no longer available. Select a different variable.",module,Magento_Variable
-"Cancel","Cancel",module,Magento_Variable
+"Cancel","Anuluj",module,Magento_Variable
 "Save","Save",module,Magento_Variable
 "Variable ID","ID zmiennej",module,Magento_Variable
 "Name","Nazwa",module,Magento_Variable
@@ -14001,7 +14001,7 @@
 "Include FPT In Subtotal","Zawrzyj FPT w podsumie",module,Magento_Weee
 "Widget Insertion","Wstawianie widgetu",module,Magento_Widget
 "Insert Widget","Wstaw widget",module,Magento_Widget
-"Cancel","Cancel",module,Magento_Widget
+"Cancel","Anuluj",module,Magento_Widget
 "label","etykieta",module,Magento_Widget
 "Choose...","Wybierz...",module,Magento_Widget
 "Close","Zamknij",module,Magento_Widget
