@@ -17,7 +17,7 @@ None,Brak,module,Magento_AdminGws
 "You need more permissions to save this setting.","Potrzebujesz więcej uprawnień, aby zapisać to ustawienie.",module,Magento_AdminGws
 "Role Scopes","Zakresy ról",module,Magento_AdminGws
 Custom,Niestandardowe,module,Magento_AdminGws
-"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view",module,Magento_AdminGws
+"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","Nie masz uprawnień, aby zapisać ten element w zakresie bieżącego widoku magazynu. Przełącz na widok, do którego masz dostęp",module,Magento_AdminGws
 "Read Details","Przeczytaj szczegóły",module,Magento_AdminNotification
 "Mark as Read","Oznacz jako przeczytane",module,Magento_AdminNotification
 "Are you sure?","Czy na pewno tego chcesz?",module,Magento_AdminNotification

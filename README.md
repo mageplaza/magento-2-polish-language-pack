@@ -89,8 +89,11 @@ Unzip the Polish language pack to Magento 2 root folder. In this guide, we extra
 Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html/`
 
 ```
-unzip master.zip app/i18n/Mageplaza/pl_pl
+unzip master.zip app/i18n/Mageplaza/
 ```
+
+Rename folder `magento-2-polish-language-pack` to `pl_pl`.
+
 
 You also can unzip locally and upload them to Magento 2 root folder.
 
@@ -110,7 +113,11 @@ To download and install Polish pack manually, you have to access to your server 
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `pl_PL.zip` into `app/i18n/mageplaza/pl_PL/pl_PL.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/pl_pl/pl_PL.csv`
+
+See this screenshot
+
+![Polish pack](https://i.imgur.com/tS668yC.png)
 
 #### Step 2: Flush cache
 
