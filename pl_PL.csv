@@ -1,20 +1,20 @@
 All,Wszystko,module,Magento_AdminGws
 None,Brak,module,Magento_AdminGws
 "Allowed Scopes","Dopuszczalne zakresy",module,Magento_AdminGws
-"More permissions are needed to delete the ""%1"" item.","More permissions are needed to delete the ""%1"" item.",module,Magento_AdminGws
+"More permissions are needed to delete the ""%1"" item.","Do usunięcia elementu ""%1"" potrzebnych jest więcej uprawnień.",module,Magento_AdminGws
 "You need more permissions to apply some of the rule updates.","Potrzebujesz więcej uprawnień do stosowania niektórych reguł aktualizacji.",module,Magento_AdminGws
-"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","This entity needs to be assigned to a store view. Verify the entity assignment and try again.",module,Magento_AdminGws
-"Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again.",module,Magento_AdminGws
-"This item needs to be assigned to a store view. Assign item and try again.","This item needs to be assigned to a store view. Assign item and try again.",module,Magento_AdminGws
-"More permissions are needed to save this item.","More permissions are needed to save this item.",module,Magento_AdminGws
-"More permissions are needed to delete this item.","More permissions are needed to delete this item.",module,Magento_AdminGws
-"More permissions are needed to view this item.","More permissions are needed to view this item.",module,Magento_AdminGws
-"At least one website or store group needs to be selected. Select and try again.","At least one website or store group needs to be selected. Select and try again.",module,Magento_AdminGws
-"More permissions are needed to set All Scopes to a Role.","More permissions are needed to set All Scopes to a Role.",module,Magento_AdminGws
-"The ""%1"" website ID is incorrect. Verify the website ID and try again.","The ""%1"" website ID is incorrect. Verify the website ID and try again.",module,Magento_AdminGws
+"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","Ten podmiot musi być przypisany do widoku sklepu. Sprawdź przypisanie i spróbuj ponownie.",module,Magento_AdminGws
+"Orders can only be completed in an active store. Verify the store and try again.","Zamówienia mogą być realizowane tylko w aktywnym sklepie. Zweryfikuj sklep i spróbuj ponownie.",module,Magento_AdminGws
+"This item needs to be assigned to a store view. Assign item and try again.","Ten element musi być przypisany do widoku sklepu. Przypisz element i spróbuj ponownie.",module,Magento_AdminGws
+"More permissions are needed to save this item.","Więcej uprawnień jest potrzebnych do zapisania tego elementu.",module,Magento_AdminGws
+"More permissions are needed to delete this item.","Więcej uprawnień jest potrzebnych do usunięcia tego elementu.",module,Magento_AdminGws
+"More permissions are needed to view this item.","Więcej uprawnień jest potrzebnych do wyświetlenia tego elementu.",module,Magento_AdminGws
+"At least one website or store group needs to be selected. Select and try again.","Co najmniej jedna strona lub grupa sklepów musi być zaznaczona. Wybierz i spróbuj ponownie.",module,Magento_AdminGws
+"More permissions are needed to set All Scopes to a Role.","Więcej uprawnień jest potrzebnych do przypisania ""Wszystkie Zakresy"" do Role.",module,Magento_AdminGws
+"The ""%1"" website ID is incorrect. Verify the website ID and try again.","Identyfikator witryny %1"" jest błędny. Zweryfikuj identyfikator witryny i spróbuj ponownie.",module,Magento_AdminGws
 "You need more permissions to access website ""%1"".","Potrzebujesz więcej uprawnień do dostępu do witryny ""%1"".",module,Magento_AdminGws
-"The ""%1"" store ID is incorrect. Verify the store ID and try again.","The ""%1"" store ID is incorrect. Verify the store ID and try again.",module,Magento_AdminGws
-"More permissions are needed to save this setting.","More permissions are needed to save this setting.",module,Magento_AdminGws
+"The ""%1"" store ID is incorrect. Verify the store ID and try again.","Identyfikator sklepu %1"" jest błędny. Zweryfikuj identyfikator sklepu i spróbuj ponownie.",module,Magento_AdminGws
+"More permissions are needed to save this setting.","Więcej uprawnień jest potrzebnych do zapisania tych ustawień.",module,Magento_AdminGws
 "Role Scopes","Zakresy ról",module,Magento_AdminGws
 Custom,Niestandardowe,module,Magento_AdminGws
 "Read Details","Przeczytaj szczegóły",module,Magento_AdminNotification
@@ -97,19 +97,19 @@ Configure,Konfiguruj,module,Magento_AdvancedCheckout
 "Add to Order by SKU","Dodaj do zamówienia po SKU",module,Magento_AdvancedCheckout
 "Add to Order","Dodaj do zamówienia",module,Magento_AdvancedCheckout
 "Add Products to Order","Dodaj produkty do zamówienia",module,Magento_AdvancedCheckout
-"<span><span id=""sku-attention-num"">%1</span> product(s) require attention.</span>","<span>Produkty wymagające sprawdzenia: <span id=""sku-attention-num"">%1</span></span>",module,Magento_AdvancedCheckout
+"<span><span id=""sku-attention-num"">%1</span> product(s) require attention.</span>","<span>Produkt(y) wymagające sprawdzenia: <span id=""sku-attention-num"">%1</span></span>",module,Magento_AdvancedCheckout
 "Remove All","Usuń wszystkie",module,Magento_AdvancedCheckout
-"Only %1%2%3 left in stock","Zostało tylko %1%2%3",module,Magento_AdvancedCheckout
+"Only %1%2%3 left in stock","Zostało na stanie tylko %1%2%3",module,Magento_AdvancedCheckout
 "You can buy up to %1 of these per purchase.","Maksymalna ilość do jednorazowego zakupu: %1.",module,Magento_AdvancedCheckout
-"You must buy at least %1 of these per purchase.","Minimalna liczba sztuk to %1.",module,Magento_AdvancedCheckout
+"You must buy at least %1 of these per purchase.","Minimalna liczba sztuk w jednym zamówieniu to %1.",module,Magento_AdvancedCheckout
 "Specify the product's options.","Określ opcje produktu.",module,Magento_AdvancedCheckout
 "Alert me when this item is available.","Powiadom mnie, gdy ta pozycja będzie dostępna.",module,Magento_AdvancedCheckout
-"This customer couldn't be found. Verify the customer and try again.","This customer couldn't be found. Verify the customer and try again.",module,Magento_AdvancedCheckout
+"This customer couldn't be found. Verify the customer and try again.","Nie odnaleziono klienta. Zweryfikuj klienta i spróbuj ponownie.",module,Magento_AdvancedCheckout
 "Shopping cart management is disabled for this customer.","Zarządzanie koszykiem jest wyłączone dla tego klienta.",module,Magento_AdvancedCheckout
 "This store couldn't be found. Verify the store and try again.","This store couldn't be found. Verify the store and try again.",module,Magento_AdvancedCheckout
 Customers,Klienci,module,Magento_AdvancedCheckout
 "Shopping Cart",Koszyk,module,Magento_AdvancedCheckout
-"An error occurred. For details, see the error log.","An error occurred. For details, see the error log.",module,Magento_AdvancedCheckout
+"An error occurred. For details, see the error log.","Wystąpił błąd. Aby uzyskać szczegółowe informacje zajrzyj do dziennika błędów.",module,Magento_AdvancedCheckout
 "You do not have access to this.","Nie posiadasz dostępu do tej sekcji.",module,Magento_AdvancedCheckout
 "Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again.",module,Magento_AdvancedCheckout
 "The ordered item needs to be loaded. Load the item and try again.","The ordered item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
@@ -147,7 +147,7 @@ Customers,Klienci,module,Magento_AdvancedCheckout
 "Yes, for Specified Customer Groups","Tak, dla określonych grup klientów",module,Magento_AdvancedCheckout
 "Yes, for Everyone","Tak, dla wszystkich",module,Magento_AdvancedCheckout
 No,Nie,module,Magento_AdvancedCheckout
-"The file is corrupt and can't be used.","The file is corrupt and can't be used.",module,Magento_AdvancedCheckout
+"The file is corrupt and can't be used.","Plik jest uszkodzony i nie może być użyty.",module,Magento_AdvancedCheckout
 "Please upload the file in .csv format.","Proszę przesłać plik w formacie .csv",module,Magento_AdvancedCheckout
 "%1 item(s) need your attention.","Produkty wymagające sprawdzenia: %1.",module,Magento_AdvancedCheckout
 "Apply Coupon Code","Zastosuj kod kuponu",module,Magento_AdvancedCheckout
@@ -185,7 +185,7 @@ Edit,Zmień,module,Magento_AdvancedCheckout
 "Add to Cart","Dodaj do koszyka",module,Magento_AdvancedCheckout
 Sku,SKU,module,Magento_AdvancedCheckout
 File,Plik,module,Magento_AdvancedCheckout
-"File extensions allowed: .csv","Dozwolone rozszerzenia plików: CSV",module,Magento_AdvancedCheckout
+"File extensions allowed: .csv","Dozwolone rozszerzenia plików: .csv",module,Magento_AdvancedCheckout
 "Add Row","Dodaj wiersz",module,Magento_AdvancedCheckout
 "Remove Row","Usuń wiersz",module,Magento_AdvancedCheckout
 "Add Products By SKU","Dodaj produktu po SKU",module,Magento_AdvancedCheckout
@@ -547,7 +547,7 @@ Stores,Sklep,module,Magento_Backend
 Home,"Strona główna",module,Magento_Backend
 Reset,Resetuj,module,Magento_Backend
 "Are you sure you want to do this?","Czy na pewno chcesz to zrobić?",module,Magento_Backend
-label,label,module,Magento_Backend
+label,etykieta,module,Magento_Backend
 "Add New Image","Dodaj nowy obraz",module,Magento_Backend
 "Export block for grid %1 is not defined","Nie zdefiniowano bloku eksportu dla tabeli %1",module,Magento_Backend
 "Reset Filter","Zresetuj filtr",module,Magento_Backend
@@ -777,7 +777,7 @@ Developer,Programista,module,Magento_Backend
 Debug,"Tryb debug",module,Magento_Backend
 "Enabled Template Path Hints for Storefront","Włączone podpowiedzi ścieżki szablonu na stronie",module,Magento_Backend
 "Enable Hints for Storefront with URL Parameter","Enable Hints for Storefront with URL Parameter",module,Magento_Backend
-"Parameter Value","Parameter Value",module,Magento_Backend
+"Parameter Value","Wartość parametru",module,Magento_Backend
 "Enabled Template Path Hints for Admin","Włączone podpowiedzi ścieżek szablonu w panelu administratora",module,Magento_Backend
 "Add Block Class Type to Hints","Add Block Class Type to Hints",module,Magento_Backend
 "Template Settings",Szablony,module,Magento_Backend
@@ -1011,7 +1011,7 @@ Action,Operacja,module,Magento_Backup
 "New Dynamic Block","New Dynamic Block",module,Magento_Banner
 Delete,Usuń,module,Magento_Banner
 "Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_Banner
-Reset,Reset,module,Magento_Banner
+Reset,Resetuj,module,Magento_Banner
 Save,Save,module,Magento_Banner
 Content,Zawartość,module,Magento_Banner
 "Default Content","Domyślna zawartość",module,Magento_Banner
@@ -1543,8 +1543,8 @@ Position,Pozycja,module,Magento_Catalog
 Day,Dzień,module,Magento_Catalog
 Month,Miesiąc,module,Magento_Catalog
 Year,Rok,module,Magento_Catalog
-from,from,module,Magento_Catalog
-to,to,module,Magento_Catalog
+from,od,module,Magento_Catalog
+to,do,module,Magento_Catalog
 [GLOBAL],[GLOBALNY],module,Magento_Catalog
 [WEBSITE],[WITRYNA],module,Magento_Catalog
 "[STORE VIEW]","[WIDOK SKLEPU]",module,Magento_Catalog
@@ -12827,7 +12827,7 @@ To,Do,module,Magento_TargetRule
 "New Related Products Rule","Nowe powiązania reguł produktów",module,Magento_TargetRule
 "Related Products Rules","Powiązane reguły produktów",module,Magento_TargetRule
 "You saved the rule.","Zapisałeś regułę.",module,Magento_TargetRule
-"We can't save the product rule right now.","W tej chwili nie możemy stworzyć reguły produktu.",module,Magento_TargetRule
+"We can't save the product rule right now.","W tej chwili nie możemy zapisać reguły produktu.",module,Magento_TargetRule
 "Please specify a correct rule.","Proszę określić poprawną regułę.",module,Magento_TargetRule
 "Invalid product list type","Nieprawidłowy rodzaj listy produktów",module,Magento_TargetRule
 "Invalid rotation mode type","Nieprawidłowy rodzaj modelu obrotu",module,Magento_TargetRule
