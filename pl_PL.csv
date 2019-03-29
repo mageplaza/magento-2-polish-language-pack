@@ -106,17 +106,17 @@ Configure,Konfiguruj,module,Magento_AdvancedCheckout
 "Alert me when this item is available.","Powiadom mnie, gdy ta pozycja będzie dostępna.",module,Magento_AdvancedCheckout
 "This customer couldn't be found. Verify the customer and try again.","Nie odnaleziono klienta. Zweryfikuj klienta i spróbuj ponownie.",module,Magento_AdvancedCheckout
 "Shopping cart management is disabled for this customer.","Zarządzanie koszykiem jest wyłączone dla tego klienta.",module,Magento_AdvancedCheckout
-"This store couldn't be found. Verify the store and try again.","This store couldn't be found. Verify the store and try again.",module,Magento_AdvancedCheckout
+"This store couldn't be found. Verify the store and try again.","Nie odnaleziono sklepu. Zweryfikuj sklep i spróbuj ponownie.",module,Magento_AdvancedCheckout
 Customers,Klienci,module,Magento_AdvancedCheckout
 "Shopping Cart",Koszyk,module,Magento_AdvancedCheckout
 "An error occurred. For details, see the error log.","Wystąpił błąd. Aby uzyskać szczegółowe informacje zajrzyj do dziennika błędów.",module,Magento_AdvancedCheckout
 "You do not have access to this.","Nie posiadasz dostępu do tej sekcji.",module,Magento_AdvancedCheckout
-"Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again.",module,Magento_AdvancedCheckout
-"The ordered item needs to be loaded. Load the item and try again.","The ordered item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
+"Orders can only be completed in an active store. Verify the store and try again.","Zamówienia mogą być realizowane tylko w aktywnym sklepie. Zweryfikuj sklep i spróbuj ponownie.",module,Magento_AdvancedCheckout
+"The ordered item needs to be loaded. Load the item and try again.","Zamówiony produkt musi być wprowadzony. Wprowadź produkt i spróbuj ponownie.",module,Magento_AdvancedCheckout
 "The quote item ID needs to be received. Set the ID and try again.","The quote item ID needs to be received. Set the ID and try again.",module,Magento_AdvancedCheckout
 "The quote item needs to be loaded. Load the item and try again.","The quote item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
-"The wish list item ID needs to be received. Set the ID and try again.","The wish list item ID needs to be received. Set the ID and try again.",module,Magento_AdvancedCheckout
-"The wish list item needs to be loaded. Load the item and try again.","The wish list item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
+"The wish list item ID needs to be received. Set the ID and try again.","Identyfikator produktu w schowku musi zostać nadany. Ustaw identyfikator i spróbuj ponownie.",module,Magento_AdvancedCheckout
+"The wish list item needs to be loaded. Load the item and try again.","Produkt w schowku musi zostać załadowany. Załaduj produkt i spróbuj ponownie.",module,Magento_AdvancedCheckout
 "An error has occurred. See error log for details.","Wystąpił błąd. Sprawdź dziennik błędów, by uzyskać szczegółowe informacje.",module,Magento_AdvancedCheckout
 "You cannot configure a product.","Nie możesz skonfigurować produktu.",module,Magento_AdvancedCheckout
 "You removed the items.","Usunięto elementy.",module,Magento_AdvancedCheckout
@@ -988,8 +988,8 @@ FTP,FTP,module,Magento_Backup
 "Magento root directory","Katalog źródłowy Magento",module,Magento_Backup
 "Create Backup","Wykonaj kopię",module,Magento_Backup
 Rollback,Przywracanie,module,Magento_Backup
-"Backup Settings","Backup Settings",module,Magento_Backup
-"Enable Backup","Enable Backup",module,Magento_Backup
+"Backup Settings","Ustawienia kopii zapasowej",module,Magento_Backup
+"Enable Backup","Włącz kopie zapasowe",module,Magento_Backup
 "Enable Scheduled Backup","Włącz zaplanowaną kopię",module,Magento_Backup
 "Scheduled Backup Type","Scheduled Backup Type",module,Magento_Backup
 "Start Time","Czas rozpoczęcia",module,Magento_Backup
@@ -1003,16 +1003,16 @@ Size(bytes),Rozmiar(Bajty),module,Magento_Backup
 Type,Rodzaj,module,Magento_Backup
 Download,Pobierz,module,Magento_Backup
 Action,Operacja,module,Magento_Backup
-"Dynamic Blocks","Dynamic Blocks",module,Magento_Banner
-"Add Dynamic Block","Add Dynamic Block",module,Magento_Banner
-"Save Dynamic Block","Save Dynamic Block",module,Magento_Banner
-"Delete Dynamic Block","Delete Dynamic Block",module,Magento_Banner
+"Dynamic Blocks","Bloki dynamiczne",module,Magento_Banner
+"Add Dynamic Block","Dodaj blok dynamiczny",module,Magento_Banner
+"Save Dynamic Block","Zapisz blok dynamiczny",module,Magento_Banner
+"Delete Dynamic Block","Usuń blok dynamiczny",module,Magento_Banner
 "Save and Continue Edit","Zapisz i kontynuuj edycję",module,Magento_Banner
-"New Dynamic Block","New Dynamic Block",module,Magento_Banner
+"New Dynamic Block","Nowy blok dynamiczny",module,Magento_Banner
 Delete,Usuń,module,Magento_Banner
-"Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_Banner
+"Are you sure you want to do this?","Czy na pewno chcesz to zrobić?",module,Magento_Banner
 Reset,Resetuj,module,Magento_Banner
-Save,Save,module,Magento_Banner
+Save,Zapisz,module,Magento_Banner
 Content,Zawartość,module,Magento_Banner
 "Default Content","Domyślna zawartość",module,Magento_Banner
 "No Default Content","Brak domyślnej zawartości",module,Magento_Banner
@@ -1025,8 +1025,8 @@ Rule,Reguła,module,Magento_Banner
 "Start Date","Data rozpoczęcia",module,Magento_Banner
 "End Date","Data zakończenia",module,Magento_Banner
 Status,Status,module,Magento_Banner
-"Dynamic Block Properties","Dynamic Block Properties",module,Magento_Banner
-"Dynamic Block Name","Dynamic Block Name",module,Magento_Banner
+"Dynamic Block Properties","Właściwości bloku dynamicznego",module,Magento_Banner
+"Dynamic Block Name","Nazwa bloku dynamicznego",module,Magento_Banner
 Active,Aktywny,module,Magento_Banner
 Inactive,Nieaktywny,module,Magento_Banner
 "Applies To",Dotyczy,module,Magento_Banner
@@ -1045,16 +1045,16 @@ Position,Pozycja,module,Magento_Banner
 "Something went wrong while deleting dynamic block data. Please review the action log and try again.","Something went wrong while deleting dynamic block data. Please review the action log and try again.",module,Magento_Banner
 "We cannot find a dynamic block to delete.","We cannot find a dynamic block to delete.",module,Magento_Banner
 "This dynamic block no longer exists.","This dynamic block no longer exists.",module,Magento_Banner
-"Edit Dynamic Block","Edit Dynamic Block",module,Magento_Banner
-"Please select a dynamic block(s).","Please select a dynamic block(s).",module,Magento_Banner
+"Edit Dynamic Block","Edytuj blok dynamiczny",module,Magento_Banner
+"Please select a dynamic block(s).","Wybierz bloki dynamiczne.",module,Magento_Banner
 "You deleted %1 record(s).","Usunięto %1 rekord(ów).",module,Magento_Banner
-"Something went wrong while mass-deleting dynamic blocks. Please review the action log and try again.","Something went wrong while mass-deleting dynamic blocks. Please review the action log and try again.",module,Magento_Banner
-"This dynamic block does not exist.","This dynamic block does not exist.",module,Magento_Banner
-"You saved the dynamic block.","You saved the dynamic block.",module,Magento_Banner
-"We cannot save the dynamic block.","We cannot save the dynamic block.",module,Magento_Banner
+"Something went wrong while mass-deleting dynamic blocks. Please review the action log and try again.","Coś poszło nie tak podczas hurtowego usuwania bloków dynamicznych. Przejrzyj dziennik akcji i spróbuj ponownie.",module,Magento_Banner
+"This dynamic block does not exist.","Blok dynamiczny nie istnieje.",module,Magento_Banner
+"You saved the dynamic block.","Zapisałeś blok dynamiczny.",module,Magento_Banner
+"We cannot save the dynamic block.","Nie można zapisać bloku dynamicznego.",module,Magento_Banner
 "Please enter a name.","Proszę wpisać nazwę.",module,Magento_Banner
 "Please specify default content for at least one store view.","Podaj domyślną zawartość dla co najmniej jednego widoku sklepu.",module,Magento_Banner
-"Make sure that dynamic blocks rotator does not reference the dynamic block itself.","Make sure that dynamic blocks rotator does not reference the dynamic block itself.",module,Magento_Banner
+"Make sure that dynamic blocks rotator does not reference the dynamic block itself.","Upewnij się że rotator bloków dynamicznych nie odwołuje się do samego bloku.",module,Magento_Banner
 "-- None --","-- Żaden --",module,Magento_Banner
 Error,Błąd,module,Magento_Banner
 "Content Area",Zawartość,module,Magento_Banner
@@ -1062,11 +1062,11 @@ Footer,Stopka,module,Magento_Banner
 Header,Nagłówek,module,Magento_Banner
 "Left Column","Lewa kolumna",module,Magento_Banner
 "Right Column","Prawa kolumna",module,Magento_Banner
-"Manage Dynamic Blocks","Manage Dynamic Blocks",module,Magento_Banner
-"Dynamic Blocks Rotator","Dynamic Blocks Rotator",module,Magento_Banner
+"Manage Dynamic Blocks","Zarządzaj blokami dynamicznymi",module,Magento_Banner
+"Dynamic Blocks Rotator","Rotator bloków dynamicznych",module,Magento_Banner
 "Displays Specified or Promotion Dynamic Blocks","Displays Specified or Promotion Dynamic Blocks",module,Magento_Banner
-"Dynamic Blocks to Display","Dynamic Blocks to Display",module,Magento_Banner
-"Specified Dynamic Blocks","Specified Dynamic Blocks",module,Magento_Banner
+"Dynamic Blocks to Display","Bloki dynamiczne do wyświetlenia",module,Magento_Banner
+"Specified Dynamic Blocks","Określone bloki dynamiczne",module,Magento_Banner
 "Cart Price Rule Related","Cart Price Rule Related",module,Magento_Banner
 "Catalog Price Rule Related","Catalog Price Rule Related",module,Magento_Banner
 "Restrict by Dynamic Block Types","Restrict by Dynamic Block Types",module,Magento_Banner
@@ -2942,7 +2942,7 @@ Subtotal,"Suma częściowa",module,Magento_Checkout
 "Edit item parameters","Zmień parametry",module,Magento_Checkout
 Edit,Zmień,module,Magento_Checkout
 "Remove item","Usuń produkt",module,Magento_Checkout
-"You have no items in your shopping cart.","Nie masz produktów w koszyku.",module,Magento_Checkout
+"You have no items in your shopping cart.","Nie posiadasz produktów w koszyku.",module,Magento_Checkout
 "Click <a href=""%1"">here</a> to continue shopping.","Kliknij <a href=""%1"">tutaj</a>, aby kontynuować zakupy.",module,Magento_Checkout
 "Estimate Tax","Oszacuj podatek",module,Magento_Checkout
 "Estimate Shipping and Tax","Koszt dostawy i podatku",module,Magento_Checkout
@@ -3576,7 +3576,7 @@ Proceed,Proceed,module,Magento_Company
 "Cannot Delete Customer","Cannot Delete Customer",module,Magento_Company
 "Set Inactive","Set Inactive",module,Magento_Company
 "Select Delete to permanently delete the user account and content. User's orders and quotes are still visible for the merchant. Select Set Inactive to temporarily lock the user. The user’s content is still available to parent users.","Select Delete to permanently delete the user account and content. User's orders and quotes are still visible for the merchant. Select Set Inactive to temporarily lock the user. The user’s content is still available to parent users.",module,Magento_Company
-"User with this email already exists in the system. Enter a different email address to continue. If you want to use your current account as an administrator account, please contact the seller.","User with this email already exists in the system. Enter a different email address to continue. If you want to use your current account as an administrator account, please contact the seller.",module,Magento_Company
+"User with this email already exists in the system. Enter a different email address to continue. If you want to use your current account as an administrator account, please contact the seller.","Użytkownik o podanym adresie email jest już zarejestrowany. Podaj inny adres email aby kontynuować. Jeśli chcesz użyć istniejącego konta w roli administratora, skontaktuj się ze sprzedawcą.",module,Magento_Company
 "Enable Company","Enable Company",module,Magento_Company
 "Company Configuration","Company Configuration",module,Magento_Company
 General,General,module,Magento_Company
@@ -8160,17 +8160,17 @@ Subscribers,Subskrybenci,module,Magento_Newsletter
 "Something went wrong while saving this template.","Coś się zepsuło podczas zapisywania tego szablonu.",module,Magento_Newsletter
 "Newsletter Subscription","Subskrypcja newsletter'a",module,Magento_Newsletter
 "Something went wrong while saving your subscription.","Coś się zepsuło podczas zapisywania twojej subskrypcji.",module,Magento_Newsletter
-"We have saved your subscription.","We have saved your subscription.",module,Magento_Newsletter
-"A confirmation request has been sent.","A confirmation request has been sent.",module,Magento_Newsletter
-"We have removed your newsletter subscription.","We have removed your newsletter subscription.",module,Magento_Newsletter
-"We have updated your subscription.","We have updated your subscription.",module,Magento_Newsletter
+"We have saved your subscription.","Zapisaliśmy Twoją subskrypcję.",module,Magento_Newsletter
+"A confirmation request has been sent.","Prośba o potwierdzenie została wysłana.",module,Magento_Newsletter
+"We have removed your newsletter subscription.","Usunęliśmy Twoją subskrypcję.",module,Magento_Newsletter
+"We have updated your subscription.","Zaktualizowaliśmy Twoją subskrypcję.",module,Magento_Newsletter
 "Your subscription has been confirmed.","Twoja subskrypcja została potwierdzona.",module,Magento_Newsletter
 "This is an invalid subscription confirmation code.","To jest nieprawidłowy kod potwierdzający subskrypcję.",module,Magento_Newsletter
 "This is an invalid subscription ID.","Jest to identyfikator nieprawidłowej subskrypcji.",module,Magento_Newsletter
 "This email address is already assigned to another user.","Ten e-mail jest już przypisany do innego użytkownika.",module,Magento_Newsletter
 "Sorry, but the administrator denied subscription for guests. Please <a href=""%1"">register</a>.","Niestety, administrator wyłączył subskrypcje dla gości. Prosimy <a href=%1"">zarejestruj się</a>."".",module,Magento_Newsletter
 "Please enter a valid email address.","Prosimy wpisać poprawny adres e-mail",module,Magento_Newsletter
-"This email address is already subscribed.","This email address is already subscribed.",module,Magento_Newsletter
+"This email address is already subscribed.","Ten adres email jest już zarejestrowany.",module,Magento_Newsletter
 "Something went wrong with the subscription.","Coś się zepsuło z subskrypcja.",module,Magento_Newsletter
 "The confirmation request has been sent.","Prośba o potwierdzenie została wysłana.",module,Magento_Newsletter
 "Thank you for your subscription.","Dziękujemy za twoją subskrypcję",module,Magento_Newsletter
@@ -8186,7 +8186,7 @@ Paused,Zatrzymany,module,Magento_Newsletter
 "We cannot mark as received subscriber.","Nie można oznaczyć jako subskrybenta.",module,Magento_Newsletter
 "Duplicate template code","Klonuj kod szablonu",module,Magento_Newsletter
 "Follow this link to unsubscribe <!-- This tag is for unsubscribe link  --><a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}</a>","Użyj tego linku aby się wypisać <!-- Tag dla linku wypisu  --><a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}</a>",module,Magento_Newsletter
-"No such entity with %fieldName = %fieldValue","No such entity with %fieldName = %fieldValue",module,Magento_Newsletter
+"No such entity with %fieldName = %fieldValue","Nie znaleziono %fieldName = %fieldValue",module,Magento_Newsletter
 "Choose Store View:","Wybierz widok sklepu:",module,Magento_Newsletter
 "Newsletter Message Preview","Podgląd newslettera",module,Magento_Newsletter
 "Add to Queue","Dodaj do kolejki",module,Magento_Newsletter
@@ -8206,8 +8206,8 @@ Subscribe,Subskrybuj,module,Magento_Newsletter
 "You have been unsubscribed from the newsletter.","Twój adres został usunięty z naszej listy subskrypcyjnej newslettera.",module,Magento_Newsletter
 "Newsletter Template","Szablony newslettera",module,Magento_Newsletter
 "Newsletter Section","Sekcja newslettera",module,Magento_Newsletter
-"General Options","General Options",module,Magento_Newsletter
-Enabled,Enabled,module,Magento_Newsletter
+"General Options","Opcje ogólne",module,Magento_Newsletter
+Enabled,Włączone,module,Magento_Newsletter
 "Subscription Options","Opcje subskrypcji",module,Magento_Newsletter
 "Allow Guest Subscription","Zezwól na subskrybowanie przez niezalogowanych",module,Magento_Newsletter
 "Need to Confirm","Wymaga potwierdzenia",module,Magento_Newsletter
@@ -14591,6 +14591,6 @@ Footer,Stopka,theme,frontend/Magento/luma
 "Your shipping confirmation is below. Thank you again for your business.","Potwierdzenie wysyłki jest poniżej. Jeszcze raz dziękuję za twoje zamówienie.",theme,frontend/Magento/luma
 "Your Shipment #%shipment_id for Order #%order_id","Twój #%shipment_id wysyłki dla zamówienia #%order_id",theme,frontend/Magento/luma
 "Update to your %store_name shipment","Aktualizacja do przesyłki %store_name",theme,frontend/Magento/luma
-"My Account","My Account",theme,frontend/Magento/luma
+"My Account","Moje konto",theme,frontend/Magento/luma
 "Address Book","Książka adresowa",theme,frontend/Magento/luma
 "Account Information","Dane konta",theme,frontend/Magento/luma
