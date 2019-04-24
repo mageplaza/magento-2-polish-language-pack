@@ -117,11 +117,13 @@ To download and install Polish pack manually, you have to access to your server 
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/pl_pl/pl_PL.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/pl_pl/`
 
-See this screenshot
+See this screenshot:
 
 ![Polish pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
+
+This language pack code is: **pl_pl**
 
 #### Step 2: Flush cache
 
