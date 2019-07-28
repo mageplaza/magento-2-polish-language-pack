@@ -1,1 +1,19 @@
-Mageplaza,Mageplaza
+"Checkout out using your account","Zrealizuj transakcję przy użyciu konta",module,Magento_Customer
+"Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field.","Wartości oddzielone średnikiem (;).<br/>Wprowadź średnik na początku dla pustej pierwszej opcji.<br/>Pozostaw puste dla tekstowego pola.",module,Magento_Customer
+"You are signed out.","Zostałeś wylogowany.",module,Magento_Customer
+"Invalid value of ""%value"" provided for the %fieldName field. Possible values are %template1 or %template2.","Nieprawidłowa wartość ""%value"" dla pola %fieldName. Możliwe wartości to %template1 lub %template2.",module,Magento_Customer
+"Could not authenticate. Please try again later","Nie można zautentykować. Spróbuj ponownie później.",module,Magento_Customer
+"Account will be unlocked after provided time.","Konto zostanie odblokowane po określonym czasie.",module,Magento_Customer
+"Text","Tekst",module,Magento_Customer
+"Text One Line","Tekst jednolinijkowy",module,Magento_Customer
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","Podane dane są nieprawidłowe lub Twoje konto zostało tymczasowo wyłączone. Poczekaj lub spróbuj ponownie później.",module,Magento_Customer
+"The password doesn't match this account. Verify the password and try again.","Wprowadzone hasło dla tego konta jest niepoprawne. Zweryfikuj hasło i spróbuj ponownie.",module,Magento_Customer
+"The email address is incorrect. Verify the email address and try again.","Adres email jest nieprawidłowy. Zweryfikuj adres i spróbuj ponownie.",module,Magento_Customer
+"The customer ID isn't defined.","ID Klienta nie zostało zdefiniowane.",module,Magento_Customer
+"Confirmation isn't needed.","Potwierdzenie nie jest wymagane.",module,Magento_Customer
+"The account is already active.","Konto jest już aktywne.",module,Magento_Customer
+"The confirmation token is invalid. Verify the token and try again.","Token potwierdzający jest nieprawidłowy. Zweryfikuj token i spróbuj ponownie.",module,Magento_Customer
+"This account isn't confirmed. Verify and try again.","Konto nie zostało potwierdzono. Zweryfikuj i spróbuj ponownie.",module,Magento_Customer
+"The password needs at least %1 characters. Create a new password and try again.","Hasło wymaga przynajmniej %1 znaków. Wprowadź nowe hasło i spróbuj ponownie.",module,Magento_Customer
+"The password can't begin or end with a space. Verify the password and try again.","Hasło nie może zaczynać się ani kończyć spacją. Wprowadź nowe hasło i spróbuj ponownie.",module,Magento_Customer
+"The password can't be the same as the email address. Create a new password and try again.","Hasło nie może być takie samo jak adres email. Stwórz nowe hasło i spróbuj ponownie.",module,Magento_Customer
