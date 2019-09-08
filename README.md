@@ -4,7 +4,7 @@ It is wise to install **Magento 2 Polish Language Pack** on your Magento 2 store
 
 Read more [Magento 2 Polish Language Pack](https://www.mageplaza.com/magento-2-polish-language-pack.html)
 
-![Mageplaza Polish language pack](https://i.imgur.com/qjWPj1W.png)
+![Mageplaza Polish language pack](https://cdn3.mageplaza.com/media/general/qjWPj1W.png)
 
 ## Overview
 
