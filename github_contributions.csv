@@ -17,3 +17,12 @@
 "The password needs at least %1 characters. Create a new password and try again.","Hasło wymaga przynajmniej %1 znaków. Wprowadź nowe hasło i spróbuj ponownie.",module,Magento_Customer
 "The password can't begin or end with a space. Verify the password and try again.","Hasło nie może zaczynać się ani kończyć spacją. Wprowadź nowe hasło i spróbuj ponownie.",module,Magento_Customer
 "The password can't be the same as the email address. Create a new password and try again.","Hasło nie może być takie samo jak adres email. Stwórz nowe hasło i spróbuj ponownie.",module,Magento_Customer
+"You added %1 to your <a href=""%2"">shopping cart</a>.","Dodałeś %1 do swojego <a href=""%2"">koszyka</a>.",module,Magento_Checkout
+"Please select at least one product to add to cart","Wybierz choć jeden produkt, aby dodać go do koszyka",module,Magento_Checkout
+"A server error stopped your order from being placed. Please try to place your order again.","Błąd serwera zatrzymał Twoje zamówienie. Spróbuj ponownie złożyć zamówienie.",module,Magento_Checkout
+"The shipping address is missing. Set the address and try again.","Adres do wysyłki jest pusty. Zdefinuj adres i spróbuj ponownie.",module,Magento_Checkout
+"The shipping information was unable to be saved. Verify the input data and try again.","Informacje na temat wysyłki nie mogą być zapisane. Zweryfikuj wprowadzone dane i spróbuj ponownie.",module,Magento_Checkout
+"The shipping method can't be set for an empty cart. Add an item to cart and try again.","Metoda wysyłki nie może być zdefiniowana dla pustego koszyka. Dodaj produkty do koszyka i spróbuj ponownie.",module,Magento_Checkout
+"Something went wrong with your request. Please try again later.","Coś poszło nie tak. Spróbuj ponownie za chwilę.",module,Magento_Checkout
+"The product wasn't found. Verify the product and try again.","Produkt nie został odnaleziony. Zweryfikuj wybrany produkt i spróbuj ponownie.",module,Magento_Checkout
+"The shipping method is missing. Select the shipping method and try again.","Metoda wysyłki nie została zdefiniowana. Wybierz metodę wysyłki i spróbuj ponownie.",module,Magento_Checkout
