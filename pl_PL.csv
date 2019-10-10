@@ -4842,7 +4842,7 @@ new products will be created. Use this step to customize images and price for yo
 "Password confirmation doesn't match entered password.","Potwierdzone hasło nie jest identyczne z wprowadzonym.",module,Magento_Customer
 "The password doesn't match this account.","Hasło nie pasuje do tego konta.",module,Magento_Customer
 "Please correct the email address.","Proszę poprawić adres e-mail.",module,Magento_Customer
-"We're unable to send the password reset email.","Jesteśmy w stanie wysłać e-maila resetowania hasła.",module,Magento_Customer
+"We're unable to send the password reset email.","Nie możemy wysłać wiadomości e-mail dotyczącej resetowania hasła.",module,Magento_Customer
 "Please enter your email.","Prosimy wpisać adres e-mail",module,Magento_Customer
 "If there is an account associated with %1 you will receive an email with a link to reset your password.","Na twój adres email wysłaliśmy link do zresetowania hasła.",module,Magento_Customer
 "My Account","Moje konto",module,Magento_Customer
@@ -15274,7 +15274,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Please correct the password reset token.","Proszę o poprawne hasło resetowania tokenu.",module,Magento_User
 "Please specify the correct account and try again.","Określ poprawne konto i spróbuj ponownie.",module,Magento_User
 "Your password reset link has expired.","Link resetowania hasła utracił ważność.",module,Magento_User
-"We're unable to send the password reset email.","Jesteśmy w stanie wysłać e-maila resetowania hasła.",module,Magento_User
+"We're unable to send the password reset email.","Nie możemy wysłać wiadomości e-mail dotyczącej resetowania hasła.",module,Magento_User
 "We'll email you a link to reset your password.","Możemy Ci wysłać e-mail z linkiem do resetowania hasła.",module,Magento_User
 "Please correct this email address:","Proszę poprawić adres e-mail:",module,Magento_User
 "Please enter an email address.","Podaj adres e-mail.",module,Magento_User
