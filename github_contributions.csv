@@ -26,3 +26,4 @@
 "Something went wrong with your request. Please try again later.","Coś poszło nie tak. Spróbuj ponownie za chwilę.",module,Magento_Checkout
 "The product wasn't found. Verify the product and try again.","Produkt nie został odnaleziony. Zweryfikuj wybrany produkt i spróbuj ponownie.",module,Magento_Checkout
 "The shipping method is missing. Select the shipping method and try again.","Metoda wysyłki nie została zdefiniowana. Wybierz metodę wysyłki i spróbuj ponownie.",module,Magento_Checkout
+"Enter your destination to get a shipping estimate.","Wprowadź adres aby otrzymać przybliżony koszt dostawy.",module,Magento_Checkout

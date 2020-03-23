@@ -3288,6 +3288,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Click <a href=""%1"">here</a> to continue shopping.","Kliknij <a href=""%1"">tutaj</a>, aby kontynuować zakupy.",module,Magento_Checkout
 "Estimate Tax","Oszacuj podatek",module,Magento_Checkout
 "Estimate Shipping and Tax","Koszt dostawy i podatku",module,Magento_Checkout
+"Enter your destination to get a shipping estimate.","Wprowadź adres aby otrzymać przybliżony koszt dostawy.",module,Magento_Checkout
 "Excl. Tax","Bez podatku",module,Magento_Checkout
 "Loading...","Ładuję...",module,Magento_Checkout
 "Order #","Zamówienie #",module,Magento_Checkout
