@@ -1028,7 +1028,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Invalid security or form key. Please refresh the page.","Invalid security or form key. Please refresh the page.",module,Magento_Backend
 "An item needs to be selected. Select and try again.","An item needs to be selected. Select and try again.",module,Magento_Backend
 "These cache type(s) don't exist: %1","These cache type(s) don't exist: %1",module,Magento_Backend
-"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.",module,Magento_Backend
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","Podane dane są nieprawidłowe lub Twoje konto zostało tymczasowo wyłączone. Poczekaj lub spróbuj ponownie później.",module,Magento_Backend
 "An authentication error occurred. Verify and try again.","An authentication error occurred. Verify and try again.",module,Magento_Backend
 "The Admin session lifetime is invalid. Set the lifetime to 31536000 seconds (one year) or shorter and try again.","The Admin session lifetime is invalid. Set the lifetime to 31536000 seconds (one year) or shorter and try again.",module,Magento_Backend
 "The Admin session lifetime is invalid. Set the lifetime to 60 seconds or longer and try again.","The Admin session lifetime is invalid. Set the lifetime to 60 seconds or longer and try again.",module,Magento_Backend
@@ -5275,16 +5275,16 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Checkout out using your account","Realizacji transakcji przy użyciu konta",module,Magento_Customer
 "Recovery Link Expiration Period (days)","Okres ważności linku odzyskującego (dni)",module,Magento_Customer
 "Leave empty for default (2). Valid range: 1-4","Pozostaw puste dla domyślnej wartości (2). Dozwolone wartości: 1-4",module,Magento_Customer
-"Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field.","Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field.",module,Magento_Customer
+"Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field.","Wartości oddzielone średnikiem (;).<br/>Wprowadź średnik na początku dla pustej pierwszej opcji.<br/>Pozostaw puste dla tekstowego pola.",module,Magento_Customer
 "Last Logged In","Ostatnio zalogowano",module,Magento_Customer
 "If your Magento site has multiple views, you can set the scope to apply to a specific view.","Jeśli Twoja strona Magento ma wiele widoków, można ustawić zakresu do zastosowania dla określonego widoku.",module,Magento_Customer
 "You are signed out.","Jesteś wylogowany.",module,Magento_Customer
-"Invalid value of ""%value"" provided for the %fieldName field. Possible values are %template1 or %template2.","Invalid value of ""%value"" provided for the %fieldName field. Possible values are %template1 or %template2.",module,Magento_Customer
-"Could not authenticate. Please try again later","Could not authenticate. Please try again later",module,Magento_Customer
+"Invalid value of ""%value"" provided for the %fieldName field. Possible values are %template1 or %template2.","Nieprawidłowa wartość ""%value"" dla pola %fieldName. Możliwe wartości to %template1 lub %template2.",module,Magento_Customer
+"Could not authenticate. Please try again later","Nie można zautentykować. Spróbuj ponownie później.",module,Magento_Customer
 "Page not found","Nie znaleziono strony",module,Magento_Customer
-"Account will be unlocked after provided time.","Account will be unlocked after provided time.",module,Magento_Customer
+"Account will be unlocked after provided time.","Konto zostanie odblokowane po określonym czasie.",module,Magento_Customer
 "Text","Tekst",module,Magento_Customer
-"Text One Line","Text One Line",module,Magento_Customer
+"Text One Line","Tekst jednolinijkowy",module,Magento_Customer
 "HTML","HTML",module,Magento_Customer
 "PDF","PDF",module,Magento_Customer
 "The account is locked. Please wait and try again or contact %1.","Konto zostało zablokowane. Proszę poczekać i spróbować ponownie lub skontaktować się z %1.",module,Magento_Customer
@@ -5292,19 +5292,19 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 " Example: "," Przykład: ",module,Magento_Customer
 "If you believe it is the right one you can ignore this notice.","Jeżeli uważasz że to prawda możesz zignorować to powiadomienie.",module,Magento_Customer
 "Invalid Form Key. Please refresh the page.","Nieprawidłowy klucz formularza. Proszę odświeżyć stronę.",module,Magento_Customer
-"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.",module,Magento_Customer
-"The password doesn't match this account. Verify the password and try again.","The password doesn't match this account. Verify the password and try again.",module,Magento_Customer
-"The email address is incorrect. Verify the email address and try again.","The email address is incorrect. Verify the email address and try again.",module,Magento_Customer
-"The customer ID isn't defined.","The customer ID isn't defined.",module,Magento_Customer
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","Podane dane są nieprawidłowe lub Twoje konto zostało tymczasowo wyłączone. Poczekaj lub spróbuj ponownie później.",module,Magento_Customer
+"The password doesn't match this account. Verify the password and try again.","Wprowadzone hasło dla tego konta jest niepoprawne. Zweryfikuj hasło i spróbuj ponownie.",module,Magento_Customer
+"The email address is incorrect. Verify the email address and try again.","Adres email jest nieprawidłowy. Zweryfikuj adres i spróbuj ponownie.",module,Magento_Customer
+"The customer ID isn't defined.","ID Klienta nie zostało zdefiniowane.",module,Magento_Customer
 "The quote items are incorrect. Verify the quote items and try again.","The quote items are incorrect. Verify the quote items and try again.",module,Magento_Customer
 "The ""%1"" section source isn't supported.","The ""%1"" section source isn't supported.",module,Magento_Customer
-"Confirmation isn't needed.","Confirmation isn't needed.",module,Magento_Customer
-"The account is already active.","The account is already active.",module,Magento_Customer
-"The confirmation token is invalid. Verify the token and try again.","The confirmation token is invalid. Verify the token and try again.",module,Magento_Customer
-"This account isn't confirmed. Verify and try again.","This account isn't confirmed. Verify and try again.",module,Magento_Customer
-"The password needs at least %1 characters. Create a new password and try again.","The password needs at least %1 characters. Create a new password and try again.",module,Magento_Customer
-"The password can't begin or end with a space. Verify the password and try again.","The password can't begin or end with a space. Verify the password and try again.",module,Magento_Customer
-"The password can't be the same as the email address. Create a new password and try again.","The password can't be the same as the email address. Create a new password and try again.",module,Magento_Customer
+"Confirmation isn't needed.","Potwierdzenie nie jest wymagane.",module,Magento_Customer
+"The account is already active.","Konto jest już aktywne.",module,Magento_Customer
+"The confirmation token is invalid. Verify the token and try again.","Token potwierdzający jest nieprawidłowy. Zweryfikuj token i spróbuj ponownie.",module,Magento_Customer
+"This account isn't confirmed. Verify and try again.","Konto nie zostało potwierdzono. Zweryfikuj i spróbuj ponownie.",module,Magento_Customer
+"The password needs at least %1 characters. Create a new password and try again.","Hasło wymaga przynajmniej %1 znaków. Wprowadź nowe hasło i spróbuj ponownie.",module,Magento_Customer
+"The password can't begin or end with a space. Verify the password and try again.","Hasło nie może zaczynać się ani kończyć spacją. Wprowadź nowe hasło i spróbuj ponownie.",module,Magento_Customer
+"The password can't be the same as the email address. Create a new password and try again.","Hasło nie może być takie samo jak adres email. Stwórz nowe hasło i spróbuj ponownie.",module,Magento_Customer
 "The store view is not in the associated website.","The store view is not in the associated website.",module,Magento_Customer
 "A customer with the same email address already exists in an associated website.","A customer with the same email address already exists in an associated website.",module,Magento_Customer
 """%fieldName"" is required. Enter and try again.","""%fieldName"" is required. Enter and try again.",module,Magento_Customer
@@ -5585,7 +5585,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "The current customer isn't authorized.","The current customer isn't authorized.",module,Magento_CustomerGraphQl
 "Customer with id ""%customer_id"" does not exist.","Customer with id ""%customer_id"" does not exist.",module,Magento_CustomerGraphQl
 "The account is locked.","To konto jest zablokowane.",module,Magento_CustomerGraphQl
-"This account isn't confirmed. Verify and try again.","This account isn't confirmed. Verify and try again.",module,Magento_CustomerGraphQl
+"This account isn't confirmed. Verify and try again.","Konto nie zostało potwierdzono. Zweryfikuj i spróbuj ponownie.",module,Magento_CustomerGraphQl
 "A customer with the same email address already exists in an associated website.","A customer with the same email address already exists in an associated website.",module,Magento_CustomerGraphQl
 "Provide the current ""password"" to change ""email"".","Provide the current ""password"" to change ""email"".",module,Magento_CustomerGraphQl
 "Specify the ""currentPassword"" value.","Specify the ""currentPassword"" value.",module,Magento_CustomerGraphQl
@@ -7788,7 +7788,7 @@ e.g. var/export, var/import, var/export/some/dir","Dla typu ""Lokalnego serwera"
 "Period of time in seconds after which account will be unlocked.","Period of time in seconds after which account will be unlocked.",module,Magento_Integration
 "The integrations created in the config file can't be edited.","The integrations created in the config file can't be edited.",module,Magento_Integration
 "A consumer with ""%1"" ID doesn't exist. Verify the ID and try again.","A consumer with ""%1"" ID doesn't exist. Verify the ID and try again.",module,Magento_Integration
-"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.",module,Magento_Integration
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","Podane dane są nieprawidłowe lub Twoje konto zostało tymczasowo wyłączone. Poczekaj lub spróbuj ponownie później.",module,Magento_Integration
 "The tokens couldn't be revoked.","The tokens couldn't be revoked.",module,Magento_Integration
 "An error occurred during the attempt to grant permissions. For details, see the exceptions log.","An error occurred during the attempt to grant permissions. For details, see the exceptions log.",module,Magento_Integration
 """%fieldName"" is required. Enter and try again.","""%fieldName"" is required. Enter and try again.",module,Magento_Integration
@@ -15371,7 +15371,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "New admin user '%user_name' created","New admin user '%user_name' created",module,Magento_User
 "A new admin account was created for %first_name, %last_name using %email.","A new admin account was created for %first_name, %last_name using %email.",module,Magento_User
 "The password entered for the current user is invalid. Verify the password and try again.","The password entered for the current user is invalid. Verify the password and try again.",module,Magento_User
-"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.",module,Magento_User
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","Podane dane są nieprawidłowe lub Twoje konto zostało tymczasowo wyłączone. Poczekaj lub spróbuj ponownie później.",module,Magento_User
 "More permissions are needed to access this.","More permissions are needed to access this.",module,Magento_User
 "The password reset token is incorrect. Verify the token and try again.","The password reset token is incorrect. Verify the token and try again.",module,Magento_User
 "Your account is temporarily disabled. Please try again later.","Your account is temporarily disabled. Please try again later.",module,Magento_User
