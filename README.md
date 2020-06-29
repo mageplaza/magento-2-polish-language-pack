@@ -20,6 +20,8 @@ Read more [Magento 2 Polish Language Pack](https://www.mageplaza.com/magento-2-p
 
 This is status of Polish Language Pack, you can see how many percentage of this project has been done.
 
+![Polish language pack process](https://progress-bar.dev//?title=completed)
+
 It is not fully translated? Feel free to contribute:
 - [On Crowdin](https://crowdin.com/project/magento-2): It takes time to approve your contribution by Magento team.
 - [On Github](https://github.com/mageplaza/magento-2-polish-language-pack/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
